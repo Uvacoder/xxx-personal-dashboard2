@@ -10,7 +10,7 @@ export const pinnedPages: PinnedPageProps[] = [
    {
       name: "GitHub",
       url: "https://github.com/uvacoder",
-      image: "https://user-images.githubusercontent.com/47594764/124385080-8c4d8480-dcd4-11eb-9dbb-090f17f5b7ec.png",
+      image: "https://res.cloudinary.com/freeunioncoder/image/upload/v1727583063/toolbox.png",
       internal: true,
    },
    {
