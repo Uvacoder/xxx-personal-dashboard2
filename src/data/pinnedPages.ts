@@ -8,8 +8,8 @@ export interface PinnedPageProps {
 
 export const pinnedPages: PinnedPageProps[] = [
    {
-      name: "Nucleus",
-      url: "https://nucleus.davidapps.dev",
+      name: "GitHub",
+      url: "https://github.com/uvacoder",
       image: "https://user-images.githubusercontent.com/47594764/124385080-8c4d8480-dcd4-11eb-9dbb-090f17f5b7ec.png",
       internal: true,
    },
